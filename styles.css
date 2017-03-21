@@ -6,6 +6,7 @@ body {
 main {
 	background: #eee;
 	width: 640px;
-	margin: 0 auto;
+	margin: 20px auto;
 	padding: 10px 30px;
+	border: 1px solid #a22;
 }
