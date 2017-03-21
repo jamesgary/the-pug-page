@@ -1,0 +1,11 @@
+body {
+	background: #fbb;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+main {
+	background: #eee;
+	width: 640px;
+	margin: 0 auto;
+	padding: 10px 30px;
+}
