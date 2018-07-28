@@ -4,7 +4,8 @@ body {
 }
 
 main {
-	background: #eee;
+	background: black;
+	color: gainsboro;
 	width: 640px;
 	margin: 20px auto;
 	padding: 10px 30px;
